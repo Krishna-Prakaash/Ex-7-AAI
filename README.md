@@ -1,7 +1,7 @@
 <H3>NAME : KRISHNA PRAKAASH D M</H3>
 <H3>Reg No: 212221230052</H3>
 <H3>EX. NO.7</H3>
-<H3>DATE:</H3>
+<H3>DATE:25.04.2024</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
  <BR>

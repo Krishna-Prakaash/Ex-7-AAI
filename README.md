@@ -1,5 +1,5 @@
-<H3>Jegathish S</H3>
-<H3>Reg No: 212221230041.</H3>
+<H3>NAME : KRISHNA PRAKAASH D M</H3>
+<H3>Reg No: 212221230052</H3>
 <H3>EX. NO.7</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
